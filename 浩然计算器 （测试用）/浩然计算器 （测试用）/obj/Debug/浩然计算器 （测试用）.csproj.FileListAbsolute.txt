@@ -1,0 +1,9 @@
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\bin\Debug\浩然计算器 （测试用）.exe.config
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\bin\Debug\浩然计算器 （测试用）.exe
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\bin\Debug\浩然计算器 （测试用）.pdb
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\obj\Debug\浩然计算器 （测试用）.csprojResolveAssemblyReference.cache
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\obj\Debug\浩然计算器__测试用_.Form1.resources
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\obj\Debug\浩然计算器__测试用_.Properties.Resources.resources
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\obj\Debug\浩然计算器 （测试用）.csproj.GenerateResource.Cache
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\obj\Debug\浩然计算器 （测试用）.exe
+D:\爱特\c#\free\浩然计算器 （测试用）\浩然计算器 （测试用）\obj\Debug\浩然计算器 （测试用）.pdb
